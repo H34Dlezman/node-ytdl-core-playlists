@@ -1,6 +1,4 @@
 node_modules
-coverage
-.nyc_output
+vids
 .DS_Store
-.idea/*
-yarn.lock
+.lastSession
