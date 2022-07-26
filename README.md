@@ -1,4 +1,5 @@
-<h4>Playlist Grabber Script made with node-ytdl-core (mid 2022)</h4>
+<h3>Playlist Grabber Script made with [fent/node-ytdl-core](https://github.com/fent/node-ytdl-core) (mid 2022)</h3>
+<h2>100% credits to fent. check out [fent/node-ytdl-core](https://github.com/fent/node-ytdl-core) for more details & the node package</h2>
 
 <h1>How-To</h1>
 
